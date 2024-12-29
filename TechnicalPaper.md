@@ -34,13 +34,13 @@ Horizontal scaling involves adding more instances or servers to distribute the w
 
 
 
-##### The choice between vertical and horizontal scaling depends on factors such as: 
+#### The choice between vertical and horizontal scaling depends on factors such as: 
 - Nature of the application
 - Salability requirements
 - Budget considerations
 - The desired level of redundancy and availability.
-  
-  ##### Communication between multiple machines over the network is another very important consideration that we will study more about in the following sections.
+
+ Communication between multiple machines over the network is another very important consideration that we will study more about in the following sections.
 
 
 
