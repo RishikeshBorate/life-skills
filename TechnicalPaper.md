@@ -16,7 +16,7 @@ Vertical scaling involves adding more resources to a single server or instance, 
 ### Key characteristics of vertical scaling:
 
 - Adding Resources: Resources such as CPU, memory, storage, and network bandwidth are increased by upgrading components within the existing server. For example, adding more RAM, replacing the CPU with a faster one, or expanding storage capacity.
-- Single Point of Failure: Since all the workload is handled by a single server, there is a higher risk of a single point of failure. If the server experiences a hardware failure, it can lead to downtime.
+- Single Point of Failure: Since a single server handles all the workload, there is a higher risk of a single point of failure. If the server experiences a hardware failure, it can lead to downtime.
 - Simplicity: Vertical scaling is often simpler to implement because it involves making changes to a single server. There is no need to manage and distribute the load across multiple instances.
 - Limited Scalability: There is a limit to how much a single server can be scaled vertically. Eventually, hardware constraints may restrict further upgrades.
 
@@ -36,11 +36,12 @@ Horizontal scaling involves adding more instances or servers to distribute the w
 
 #### The choice between vertical and horizontal scaling depends on factors such as: 
 - Nature of the application
-- Salability requirements
+- Scalability requirements
 - Budget considerations
 - The desired level of redundancy and availability.
 
  Communication between multiple machines over the network is another very important consideration that we will study more about in the following sections.
 
-
+##Referances:
+- DigitalOcean : Horizontal scaling vs vertical scaling: Choosing your strategy (https://www.digitalocean.com/resources/articles/horizontal-scaling-vs-vertical-scaling)
 
