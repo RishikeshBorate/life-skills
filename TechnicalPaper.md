@@ -45,10 +45,10 @@ Horizontal scaling involves adding more instances or servers to distribute the w
 ## References:
 
 ### Articles: 
-- DigitalOcean: Horizontal scaling vs vertical scaling: Choosing your strategy ( https://www.digitalocean.com/resources/articles/horizontal-scaling-vs-vertical-scaling )
-- What is software scalability, and why should your company take it seriously? ( https://itrexgroup.com/blog/what-is-software-scalability/ )
+- DigitalOcean: Horizontal scaling vs vertical scaling: Choosing your strategy - https://www.digitalocean.com/resources/articles/horizontal-scaling-vs-vertical-scaling 
+- What is software scalability, and why should your company take it seriously? - https://itrexgroup.com/blog/what-is-software-scalability/ 
 
 ### YouTube
-- Vertical and Horizontal scaling | System design ( https://youtu.be/uVXuZNttOzY?feature=shared ) 
+- Vertical and Horizontal scaling | System design - https://youtu.be/uVXuZNttOzY?feature=shared 
 
 
