@@ -5,14 +5,15 @@ In the context of software development, scalability is an application’s abilit
 - Increased number of transactions being processed
 
 There are two ways of scaling 
-- Horizontal Scaling
 - Vertical Scaling
+- Horizontal Scaling
 
-##Vertical Scaling (Scale Up):
+
+#Vertical Scaling (Scale Up):
 
 Vertical scaling involves adding more resources to a single server or instance, typically by upgrading its hardware components. This approach focuses on increasing the capacity of an individual server to handle more load.
 
-###Key characteristics of vertical scaling:
+#Key characteristics of vertical scaling:
 
 - Adding Resources: Resources such as CPU, memory, storage, and network bandwidth are increased by upgrading components within the existing server. For example, adding more RAM, replacing the CPU with a faster one, or expanding storage capacity.
 - Single Point of Failure: Since all the workload is handled by a single server, there is a higher risk of a single point of failure. If the server experiences a hardware failure, it can lead to downtime.
@@ -20,10 +21,10 @@ Vertical scaling involves adding more resources to a single server or instance, 
 - Limited Scalability: There is a limit to how much a single server can be scaled vertically. Eventually, hardware constraints may restrict further upgrades.
 
 
-##Horizontal Scaling (Scale Out):
+#Horizontal Scaling (Scale Out):
 Horizontal scaling involves adding more instances or servers to distribute the workload, rather than upgrading individual components. This approach focuses on increasing capacity by distributing the load across multiple machines.
 
-###Key characteristics of horizontal scaling:
+#Key characteristics of horizontal scaling:
 
 - Adding Instances: More servers or instances are added to the system to share the workload. Each instance is capable of handling a portion of the overall traffic.
 - Improved Redundancy and Availability: Horizontal scaling provides better redundancy and availability since the failure of one instance does not necessarily lead to downtime. Traffic can be redirected to healthy instances.
