@@ -13,7 +13,7 @@ There are two ways of scaling
 
 Vertical scaling involves adding more resources to a single server or instance, typically by upgrading its hardware components. This approach focuses on increasing the capacity of an individual server to handle more load.
 
-## Key characteristics of vertical scaling:
+### Key characteristics of vertical scaling:
 
 - Adding Resources: Resources such as CPU, memory, storage, and network bandwidth are increased by upgrading components within the existing server. For example, adding more RAM, replacing the CPU with a faster one, or expanding storage capacity.
 - Single Point of Failure: Since all the workload is handled by a single server, there is a higher risk of a single point of failure. If the server experiences a hardware failure, it can lead to downtime.
@@ -34,7 +34,13 @@ Horizontal scaling involves adding more instances or servers to distribute the w
 
 
 
-The choice between vertical and horizontal scaling depends on factors such as the nature of the application, the scalability requirements, budget considerations, and the desired level of redundancy and availability. Communication between multiple machines over the network is another very important consideration that we will study more about in the following sections.
+##### The choice between vertical and horizontal scaling depends on factors such as: 
+- Nature of the application
+- Salability requirements
+- Budget considerations
+- The desired level of redundancy and availability.
+  
+  ##### Communication between multiple machines over the network is another very important consideration that we will study more about in the following sections.
 
 
 
