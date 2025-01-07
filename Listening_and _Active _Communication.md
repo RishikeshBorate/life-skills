@@ -2,11 +2,11 @@
 
 ### Question 1
 #### What are the steps/strategies to do Active Listening?
-- Avoid getting distracted by your own thoughts .
-- Focus on speaker and topic
-- Do not interupt the other person
+- Avoid getting distracted by your own thoughts.
+- Focus on the speaker and topic
+- Do not interrupt the other person
 - Show you are listening with your body language
-- If approprite take notes
+- If appropriate take notes
   
 
 ## 2. Reflective Listening
@@ -34,17 +34,17 @@ To improve my listening :
 - Create a focused environment.
 - Practice techniques to maintain concentration for longer periods.
 - Seek clarification to ensure that I fully understand the speaker’s message.
-  
+
 
 ## 4. Types of Communication
 
 ### Question 5 
 #### When do you switch to Passive communication style in your day to day life?
-- When I want to avoid conflict, when I feel overwhelmed , I tend to switch to a passive communication style.
+When I want to avoid conflict or feel overwhelmed, I tend to switch to a passive communication style.
 
 ### Question 6 
 #### When do you switch into Aggressive communication styles in your day to day life?
-- When I feel that someone is overstepping their boundaries , I generally switch to aggressive communication
+- When I feel that someone is overstepping their boundaries, I generally switch to aggressive communication
 
 ### Question 7
 #### When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
@@ -58,5 +58,6 @@ I tend to switch to passive-aggressive communication when:
 To enhance assertiveness in communication, I would:
 - Acknowledge and understand the perspectives and feelings of others.
 - Stay calm and respectful, regardless of the situation.
-- Share how I feel and what I need in a straightforward manner.
-- Express thoughts and feelings directly and clearly, without ambiguity.
+- Share how I feel and what I need straightforwardly.
+- Express thoughts and feelings directly and clearly, without ambiguity. 
+
